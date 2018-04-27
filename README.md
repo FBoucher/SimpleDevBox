@@ -17,9 +17,9 @@ Once the VM is available, it should have Visual Studio 2017 Enterprise, VSCode, 
 
 If you prefer, I also have a video version of that post.
 
-**How to Create an Azure VM with Chocolatey**
-
-<iframe width="560" height="315" src="https://www.youtube.com/embed/X-pTFoLZyX4" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
+**YouTube**
+[![How to Create an Azure VM with Chocolatey](http://i3.ytimg.com/vi/X-pTFoLZyX4/maxresdefault.jpg)](https://www.youtube.com/watch?v=X-pTFoLZyX4)
+[How to Create an Azure VM with Chocolatey](http://i3.ytimg.com/vi/X-pTFoLZyX4/maxresdefault.jpg)
 
 ~Enjoy!
 
