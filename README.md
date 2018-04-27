@@ -7,7 +7,7 @@ I don't know for you, but I don't like losing time. This is why a few years ago 
 Creating a new VM on premises applying the OS update and installing all the tools you need (like Visual Stutio IDE) will takes hours... This solution should be done under 10 minutes (~7min in my case).
 Once the VM is available, it should have Visual Studio 2017 Enterprise, VSCode, Git and Node.Js installed. In fact, I would like to use the same Chocolatey script I use regularly.
 
-One Click Debploy [![Deploy to Azure](http://azuredeploy.net/deploybutton.png)](https://portal.azure.com/#create/Microsoft.Template/uri/https%3A%2F%2Fraw.githubusercontent.com%2FFBoucher%2FSimpleDevBox%2Fmaster%2Fazure-deploy.json)
+**One Click Deploy** [![Deploy to Azure](http://azuredeploy.net/deploybutton.png)](https://portal.azure.com/#create/Microsoft.Template/uri/https%3A%2F%2Fraw.githubusercontent.com%2FFBoucher%2FSimpleDevBox%2Fmaster%2Fazure-deploy.json)
 
 
 ## Lear How to build something like that
@@ -18,6 +18,7 @@ One Click Debploy [![Deploy to Azure](http://azuredeploy.net/deploybutton.png)](
 If you prefer, I also have a video version of that post.
 
 **How to Create an Azure VM with Chocolatey**
+
 <iframe width="560" height="315" src="https://www.youtube.com/embed/X-pTFoLZyX4" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
 
 ~Enjoy!
