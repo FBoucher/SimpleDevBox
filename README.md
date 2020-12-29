@@ -7,7 +7,7 @@ I don't know for you, but I don't like losing time. This is why a few years ago 
 Creating a new VM on premises applying the OS update and installing all the tools you need (like Visual Stutio IDE) will takes hours... This solution should be done under 10 minutes (~7min in my case).
 Once the VM is available, it should have Visual Studio 2017 Enterprise, VSCode, Git and Node.Js installed. In fact, I would like to use the same Chocolatey script I use regularly.
 
-**One Click Deploy** [![Deploy to Azure](http://azuredeploy.net/deploybutton.png)](https://portal.azure.com/#create/Microsoft.Template/uri/https%3A%2F%2Fraw.githubusercontent.com%2FFBoucher%2FSimpleDevBox%2Fmaster%2Fazure-deploy.json)
+**One Click Deploy** [![Deploy to Azure](http://azuredeploy.net/deploybutton.png)](https://portal.azure.com/?WT.mc_id=dotnet-0000-frbouche#create/Microsoft.Template/uri/https%3A%2F%2Fraw.githubusercontent.com%2FFBoucher%2FSimpleDevBox%2Fmaster%2Fazure-deploy.json)
 
 
 ## Lear How to build something like that
@@ -26,8 +26,8 @@ If you prefer, I also have a video version of that post.
 #### References:
 
 * [Chocolatey](https://chocolatey.org/)
-* [Azure Resource Manager Tools](https://marketplace.visualstudio.com/items?itemName=msazurermtools.azurerm-vscode-tools)
-* [Azure Resource Manager Snippets](https://marketplace.visualstudio.com/items?itemName=samcogan.arm-snippets)
-* [Custom Script Extension for Windows](https://docs.microsoft.com/en-us/azure/virtual-machines/windows/extensions-customscript)
+* [Azure Resource Manager Tools](https://marketplace.visualstudio.com/items?itemName=msazurermtools.azurerm-vscode-tools&WT.mc_id=dotnet-0000-frbouche)
+* [Azure Resource Manager Snippets](https://marketplace.visualstudio.com/items?itemName=samcogan.arm-snippets&WT.mc_id=dotnet-0000-frbouche)
+* [Custom Script Extension for Windows](https://docs.microsoft.com/azure/virtual-machines/windows/extensions-customscript?WT.mc_id=dotnet-0000-frbouche)
 * [All scripts from this post](https://github.com/FBoucher/SimpleDevBox)
 
